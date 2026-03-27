@@ -35,8 +35,6 @@ A lista é atualizada automaticamente ao retornar para a tela principal.
 
 ---
 
----
-
 ## 🧠 Lógica do Funcionamento
 
 - A lista de usuários é armazenada em uma variável **estática (`static`)**, permitindo que os dados sejam compartilhados entre diferentes telas enquanto o app estiver aberto.
