@@ -44,8 +44,6 @@ A lista é atualizada automaticamente ao retornar para a tela principal.
 
 ---
 
----
-
 ## 💡 Melhorias Futuras
 
 - Persistência de dados com **SQLite** ou **Room Database**
